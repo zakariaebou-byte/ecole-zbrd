@@ -2,7 +2,7 @@
   "name": "Z-BrD - Ecole",
   "short_name": "Z-BrD",
   "description": "Z-BrD V14 Pro - Ecole - Essai gratuit 15 jours",
-  "start_url": "/",
+  "start_url": "/ecole-zbrd/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1a4dff",
